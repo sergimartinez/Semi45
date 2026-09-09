@@ -22,8 +22,3 @@ subtitle: "Group 45 · BA in Intl. Studies and Political Science · University C
 |---|---|---|
 | L1 | Course presentation | [Slides](L1_Presentacion_Curso.html) |
 | S1 | Ethics and the limits of the method  | [Slides](S1_Fraude_y_Metodo.html) |
-| L2 | From questions to theories | [Slides](L2_Questions_Theories.html) |
-| S2 | Motivating articles, building theories | [Slides](S2_Motivation_Problem.html) |  
-| L3 | From shoe-leather research to experiments | [Slides](L3_shoeleather_experiments.html) |
-| S3 | Writing and commenting on conceptual definitions and lit. reviews | [Slides](S3_Literature_Theory.html) |  
-
