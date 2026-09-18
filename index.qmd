@@ -22,3 +22,4 @@ subtitle: "Group 45 · BA in Intl. Studies and Political Science · University C
 |---|---|---|
 | L1 | Course presentation | [Slides](L1_Course_Presentation_EN.html) |
 | S1 | Ethics and the limits of the method  | [Slides](S1_Fraude_y_Metodo.html) |
+| L2 | Questions and theories | [Slides](L2_Questions_Theories2.html) |
