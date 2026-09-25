@@ -25,3 +25,4 @@ subtitle: "Group 45 · BA in Intl. Studies and Political Science · University C
 | L2 | Questions and theories | [Slides](L2_Questions_Theories2.html) |
 | S2 | Motivating questions | [Slides](S2_Motivation_Problem.html) |
 | L3 | Shoeleather and testing | [Slides](L3_shoeleather_experiments_EN.html) |
+| S3 | Your theories | [Slides](S3_Literature_Theory.html) |
