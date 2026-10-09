@@ -29,4 +29,5 @@ subtitle: "Group 45 · BA in Intl. Studies and Political Science · University C
 | L4 | Counterfactuals | [Slides](L4_counterfactuals_measurement_EN2.html) |
 | S4 | Data sources and intro to tidyveRse: dplyr and ggplot | [Slides](S4_tidybis.html) |
 | L5 | Qualitative methods 1: Interview and focus group | [Slides](L5_Quali1.html) |
+| L6 | Quantitative methods 1: R, t-test to regression | [Slides](L5_Quant1.html) |
 
