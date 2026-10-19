@@ -101,16 +101,16 @@ Artificial intelligence tools (ChatGPT, Claude, and similar) are powerful aids f
 - Fearon, J. D., & Laitin, D. D. (2003). Ethnicity, Insurgency, and Civil War. *American Political Science Review*, 97(1), 75–90. [Replication analysis]
 - Bolet, D. (2021). Drinking alone: local socio-cultural degradation and radical right support. *Comparative Political Studies*, 54(9), 1653–1692.
 
-**L8 (Oct 30). Experiments: The golden standard.**
+**L8 (Oct 30). Why? How? Qualitative methods II: Ethnography and process tracing.**
+
+- Berenschot, W. (2010). Everyday mediation: The politics of public service delivery in Gujarat, India. *Development and Change*, 41(5), 883–905.
+- Pavone, T., & Stiansen, Ø. (2022). The shadow effect of courts: Judicial review and the politics of preemptive reform. *American Political Science Review*, 116(1), 322–336.
+
+**L9 (Nov 6). Experiments: The golden standard.**
 
 - Prillaman, S. A. (2023). Strength in numbers: how women's groups close India's political gender gap. *American Journal of Political Science*, 67(2), 390–410.
 - Clayton, A., O'Brien, D. Z., & Piscopo, J. M. (2019). All male panels? Representation and democratic legitimacy. *American Journal of Political Science*, 63(1), 113–129.
 - Extra ball: Mousa, S. (2020). Building social cohesion between Christians and Muslims through soccer in post-ISIS Iraq. *Science*, 369(6505), 866–870.
-
-**L9 (Nov 6). Why? How? Qualitative methods II: Ethnography and process tracing.**
-
-- Berenschot, W. (2010). Everyday mediation: The politics of public service delivery in Gujarat, India. *Development and Change*, 41(5), 883–905.
-- Pavone, T., & Stiansen, Ø. (2022). The shadow effect of courts: Judicial review and the politics of preemptive reform. *American Political Science Review*, 116(1), 322–336.
 
 **L10 (Nov 13). Difference-in-Differences.**
 
