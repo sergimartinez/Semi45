@@ -33,4 +33,5 @@ subtitle: "Group 45 · BA in Intl. Studies and Political Science · University C
 | S6 | Quant-Qual: T-test and case study | [Slides](S5.html) |
 | L7 | Quantitative methods 2: R, approaching regression | [Slides](L7_ENG.html) |
 | S7 | Quant-Qual 2: Regression and Quals | [Slides](S6_EN.html) |
+| L8 | Qual 3: Ethnography and fb rounds | [Slides](L7_2_EN.html) |
 
