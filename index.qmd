@@ -35,4 +35,5 @@ subtitle: "Group 45 · BA in Intl. Studies and Political Science · University C
 | S7 | Quant-Qual 2: Regression and Quals | [Slides](S6_EN.html) |
 | L8 | Qual 3: Ethnography and fb rounds | [Slides](L7_2_EN.html) |
 | L9 | Quant 3: Regression and interactions | [Slides](L9_EN.html) |
+| S9 | Interactions: understading and criticising them | [Slides](S7_EN.html) |
 
