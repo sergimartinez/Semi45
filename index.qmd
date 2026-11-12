@@ -37,4 +37,5 @@ subtitle: "Group 45 · BA in Intl. Studies and Political Science · University C
 | L9 | Quant 3: Regression and interactions | [Slides](L9_EN.html) |
 | S9 | Interactions: understading and criticising them | [Slides](S7_EN.html) |
 | L10 | From regression to experiments | [Slides](L10_EN.html) |
+| S10 | Operationalizing our ideal experiments | [Slides](S8_EN.html) |
 
