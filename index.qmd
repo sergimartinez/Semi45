@@ -38,4 +38,5 @@ subtitle: "Group 45 · BA in Intl. Studies and Political Science · University C
 | S9 | Interactions: understading and criticising them | [Slides](S7_EN.html) |
 | L10 | From regression to experiments | [Slides](L10_EN.html) |
 | S10 | Operationalizing our ideal experiments | [Slides](S8_EN.html) |
+| L11 | Types of experiments: From the screen to the field | [Slides](L11_EN.html) |
 
