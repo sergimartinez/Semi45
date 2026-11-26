@@ -40,4 +40,5 @@ subtitle: "Group 45 · BA in Intl. Studies and Political Science · University C
 | S10 | Operationalizing our ideal experiments | [Slides](S8_EN.html) |
 | L11 | Types of experiments: From the screen to the field | [Slides](L11_EN.html) |
 | S11 | Natural experiments | [Slides](S9_EN.html) |
+| L12 | Not everything can be randomized | [Slides](L12_EN_full.html) |
 
